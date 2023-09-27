@@ -1,1 +1,1 @@
-# classificacao_multi_categorica
+# Classificação: Resolvendo problemas multiclasse
